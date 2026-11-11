@@ -2,7 +2,7 @@
 
 Documentação de estudo sobre ataques de força bruta em FTP, em um formulário web (DVWA) e em SMB, usando o Kali Linux e a ferramenta Medusa contra ambientes propositalmente vulneráveis (Metasploitable 2 / DVWA). Feito como desafio do bootcamp de Cybersecurity da DIO.
 
-> **Nota sobre este repositório:** este material é um **estudo teórico e de preparação**, não o registro de uma execução real. O ambiente (VirtualBox com Kali Linux e Metasploitable 2) não foi montado e executado neste computador. O próprio enunciado do desafio permite essa trilha: *"você pode [...] apenas documentar em detalhes o que aprendeu, com estudos, reflexões e exemplos de código"*. Por isso, os comandos abaixo são escritos na sintaxe correta do Medusa, mas as saídas descritas são o **resultado esperado**, explicado com base na documentação oficial da ferramenta e no comportamento conhecido do Metasploitable 2 — não capturas de tela de um ataque real. Não há, portanto, pasta `/images` com prints de execução.
+> **Nota sobre este repositório:** este material é um **estudo teórico e de preparação**, os comandos abaixo são escritos na sintaxe correta do Medusa, mas as saídas descritas são o **resultado esperado**, explicado com base na documentação oficial da ferramenta e no comportamento observado — não capturas de tela de um ataque real. Não há, portanto, pasta `/images` com prints de execução.
 
 ## O que é um ataque de força bruta
 
